@@ -24,6 +24,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\aulas\analise de dados\matplotlib\grafico com pandas\alunos_senai_sig.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
