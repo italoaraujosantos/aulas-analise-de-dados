@@ -1,0 +1,51 @@
+id_funcionario,idade,departamento,salario,cidade,vendas_mensais
+1,56.0,RH,3400.55,Belo Horizonte,12
+2,46.0,TI,4486.21,São Paulo,0
+3,32.0,Marketing,,Rio de Janeiro,14
+4,25.0,Vendas,3382.82,Rio de Janeiro,39
+5,38.0,TI,5817.87,Curitiba,2
+6,56.0,Vendas,2656.32,Porto Alegre,36
+7,36.0,TI,4558.23,Belo Horizonte,0
+8,40.0,Diretoria,14831.67,São Paulo,2
+9,28.0,Vendas,3040.23,Curitiba,31
+10,28.0,RH,3620.65,Porto Alegre,14
+11,41.0,Financeiro,5028.54,Curitiba,15
+12,53.0,Marketing,4676.74,Porto Alegre,5
+13,57.0,RH,3278.35,Porto Alegre,8
+14,41.0,Vendas,4607.21,Belo Horizonte,21
+15,20.0,Vendas,3969.49,Porto Alegre,35
+16,39.0,Financeiro,5971.41,Curitiba,5
+17,19.0,Diretoria,15056.2,Porto Alegre,9
+18,41.0,Marketing,2922.62,Belo Horizonte,17
+19,47.0,Vendas,3166.83,Belo Horizonte,23
+20,55.0,Vendas,4186.0,Curitiba,38
+21,19.0,Financeiro,4798.76,Rio de Janeiro,8
+22,38.0,Vendas,3984.39,Rio de Janeiro,26
+23,50.0,RH,4482.7,Porto Alegre,11
+24,29.0,RH,3176.78,São Paulo,6
+25,39.0,TI,5481.98,Porto Alegre,0
+26,,TI,5926.46,Curitiba,0
+27,44.0,Vendas,3664.52,Curitiba,29
+28,59.0,RH,2700.86,Curitiba,7
+29,45.0,RH,3436.95,Curitiba,13
+30,33.0,TI,4477.54,Curitiba,3
+31,32.0,TI,3392.52,Belo Horizonte,3
+32,20.0,Marketing,4166.17,Rio de Janeiro,9
+33,54.0,Marketing,4233.89,Curitiba,13
+34,24.0,Vendas,4125.46,São Paulo,28
+35,38.0,Financeiro,5169.46,São Paulo,7
+36,,Marketing,3219.57,São Paulo,8
+37,56.0,Financeiro,4225.44,São Paulo,12
+38,35.0,Financeiro,4311.8,Belo Horizonte,8
+39,21.0,Vendas,3681.03,São Paulo,22
+40,42.0,TI,5847.4,Curitiba,0
+41,31.0,RH,,Porto Alegre,10
+42,26.0,Marketing,,São Paulo,7
+43,43.0,Marketing,2927.83,Belo Horizonte,5
+44,19.0,Vendas,4025.24,Belo Horizonte,23
+45,37.0,RH,3323.94,São Paulo,8
+46,45.0,Vendas,2595.66,Porto Alegre,43
+47,24.0,RH,,São Paulo,5
+48,25.0,Financeiro,4371.5,Belo Horizonte,5
+49,52.0,Diretoria,16268.48,Rio de Janeiro,7
+50,,Marketing,6754.99,Curitiba,11
